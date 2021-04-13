@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "movie_app",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taleem3119/portfolio.git"
+  },
+  "author": "luqman_l_taleem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taleem3119/portfolio/issues"
+  },
+  "homepage": "https://github.com/Taleem3119/portfolio#readme"
+}
